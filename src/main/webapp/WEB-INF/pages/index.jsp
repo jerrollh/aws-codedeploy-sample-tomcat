@@ -93,7 +93,7 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy a Night on the Town</h3>
+            <h3 class="panel-title">Enjoy a Night on the Town with your dawg</h3>
           </div>
           <div class="panel-body">
             Meeting your special someone? Make sure your dog looks the part!
